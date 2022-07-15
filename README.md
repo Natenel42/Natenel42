@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Natenel42
+- 👋 Hi, I’m @Natenel42 (Natenel Assefa)
 - 👀 I’m interested in coding and internet security
-- 🌱 I’m currently learning computer science
+- 🌱 I graduated in computer science
 - 💞️ I’m looking to collaborate on vuejs
+- 👨‍💻 I'm currently learning software engineering in ALX Africa 
 - 📫 How to reach me ...
 
 <!---
